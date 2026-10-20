@@ -8,7 +8,8 @@ Se busca organizar la información de clientes, técnicos, departamentos, incide
 # Descripción del modelo
 El proyecto utiliza un modelo Entidad-Relación que posteriormente se transforma en un modelo relacional de tablas.
 
-Las entidades principales son CLIENTE, TECNICO, DEPARTAMENTO, INCIDENCIA y SERVICIO. También se incluyen las subentidades SERVICIO_PRESENCIAL y SERVICIO_ONLINE, además de INTERVENCION para representar el trabajo realizado por los técnicos.
+Las entidades principales son CLIENTE, TECNICO, DEPARTAMENTO, INCIDENCIA y SERVICIO.  
+También se incluyen las subentidades SERVICIO_PRESENCIAL y SERVICIO_ONLINE, además de INTERVENCION para representar el trabajo realizado por los técnicos.
 
 El diseño utiliza claves primarias y foráneas para relacionar las tablas. También contempla atributos especiales, como el teléfono multivaluado del cliente, la edad derivada del técnico y la dirección compuesta.
 # Archivos del repositorio
