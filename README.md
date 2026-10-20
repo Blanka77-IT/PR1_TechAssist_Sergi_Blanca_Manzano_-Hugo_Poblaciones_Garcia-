@@ -12,8 +12,9 @@ Las entidades principales son CLIENTE, TECNICO, DEPARTAMENTO, INCIDENCIA y SERVI
 
 El diseño utiliza claves primarias y foráneas para relacionar las tablas. También contempla atributos especiales, como el teléfono multivaluado del cliente, la edad derivada del técnico y la dirección compuesta.
 # Archivos del repositorio
-Los archivos que publicaremos para completar la actividad son los siguientes:
+Los archivos que publicaremos para completar la actividad son los siguientes:  
 README.md: información general del proyecto e integrantes.  
 documentacion/respuestas_practica.md: respuestas razonadas de las seis fases  
 diagramas/diagrama_ER.pdf: diagrama Entidad-Relación final.  
 diagramas/modelo_relacional.pdf: modelo de tablas con campos, tipos de datos, PK y FK.  
+ 
