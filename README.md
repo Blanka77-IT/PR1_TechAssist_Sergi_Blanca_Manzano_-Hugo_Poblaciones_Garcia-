@@ -1,6 +1,6 @@
 # PR1_TechAssist_Sergi_Blanca_Manzano_-Hugo_Poblaciones_Garcia
 # Integrantes 
--Hugo Poblaciones
+-Hugo Poblaciones  
 -Sergi Blanca
 # Objetivo del proyecto
 El objetivo de este proyecto es diseñar una base de datos para nuestra empresa TechAssist, esta empresa esta dedicada a prestar servicios de soporte y asistencia informática a diferentes organizaciones.
